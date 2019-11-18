@@ -1,5 +1,3 @@
-/* commento normale */
-/** JAVADOC */
 
 public class Main {
 
